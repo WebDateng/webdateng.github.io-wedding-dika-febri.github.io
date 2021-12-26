@@ -172,7 +172,8 @@ nav {
   }
 
   #bgBanner,
-  #popup {
+  #popup,
+  #acara {
     background-position-x: 48%;
   }
 }
